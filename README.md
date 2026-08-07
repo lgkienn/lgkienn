@@ -52,6 +52,8 @@ My finance background gives me an edge: I tend to **understand the business prob
 | **Customer Retention & RFM Segmentation Dashboard** | RFM + Cohort Analysis, visualized customer lifecycle migration via Sankey diagrams | Python, Streamlit | [View repo](#) |
 | **Marketing & Campaign Performance Analysis** | Star-schema data model, 15+ DAX measures, tracking 854 campaigns | Power BI | [View repo](#) |
 
+*(👉 remember to replace `#` with your actual repo links)*
+
 ---
 
 ### 🎓 Education & Certifications
